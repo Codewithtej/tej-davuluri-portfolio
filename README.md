@@ -33,6 +33,9 @@ The repository is a portable Vite and React implementation of the completed port
 │   │   ├── companies/     # Pergo, Merkle, Isazi, Pharmavite and Meta logos
 │   │   ├── hero/          # Landing portrait
 │   │   └── personal/      # Rover, marathon and mentoring photographs
+│   ├── apple-touch-icon.png
+│   ├── favicon-32x32.png
+│   ├── favicon.ico
 │   └── favicon.svg
 ├── src
 │   ├── text/siteContent.ts
